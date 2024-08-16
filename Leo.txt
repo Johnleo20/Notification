@@ -1,6 +1,6 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "NEW VERSION",
+  "Title": "LEO MODZ",
   "Description": "RANK BOOSRER",
   "MainTextButton": "Update",
   "Cancelable": "true",
