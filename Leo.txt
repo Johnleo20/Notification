@@ -1,1 +1,10 @@
-
+{
+  "Visibility": "VISIBLE",
+  "Title": "RANK BOOSTER",
+  "Description": "WALANG UPDATE GAGO HAHA NAG TRY LANG AKO KUNG MAY LALABAS",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://www.google.com",
+  "Version": "1.3"
+}
