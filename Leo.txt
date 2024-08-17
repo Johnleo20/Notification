@@ -7,6 +7,6 @@ fix back options",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "EXIT",
-  "DownloadLink": "https://www.google.com",
+  "DownloadLink": "https://www.mediafire.com/file/q31nfz3ql00l9ox/Rank_Booster.zip/file",
   "Version": "1.3"
 }
