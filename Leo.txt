@@ -1,1 +1,10 @@
-
+{
+  "Visibility": "LEOMODZ",
+  "Title": "KING INAMO BLOCK KASAKIN NAGYUN",
+  "Description": "Test Message",
+  "MainTextButton": "",
+  "Cancelable": "true",
+  "CancelButtonText": "",
+  "DownloadLink": "www.example.com",
+  "Version": "1.1"
+}
