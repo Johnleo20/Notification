@@ -1,9 +1,12 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "NEW VERSION",
+  "Description": "this app is not working anymore please update
+New Features Drone x2 aneme lag
+fix back options",
   "MainTextButton": "Update",
   "Cancelable": "true",
-  "DownloadLink": "www.google.com",
-  "Version": "1.1"
+  "CancelButtonText": "EXIT",
+  "DownloadLink": "https://www.google.com",
+  "Version": "1.3"
 }
