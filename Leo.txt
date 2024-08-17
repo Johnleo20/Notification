@@ -1,10 +1,9 @@
 {
   "Visibility": "VISIBLE",
   "Title": "YOU BANNED",
-  "Description": "INAMO",
-  "MainTextButton": "",
+  "Description": "ULOL",
+  "MainTextButton": "Update",
   "Cancelable": "true",
-  "CancelButtonText": "",
-  "DownloadLink": "www.example.com",
+  "DownloadLink": "google.com",
   "Version": "1.1"
 }
