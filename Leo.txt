@@ -1,7 +1,7 @@
 {
-  "Visibility": "LEOMODZ",
-  "Title": "KING INAMO BLOCK KASAKIN NAGYUN",
-  "Description": "Test Message",
+  "Visibility": "VISIBLE",
+  "Title": "YOU BANNED",
+  "Description": "INAMO",
   "MainTextButton": "",
   "Cancelable": "true",
   "CancelButtonText": "",
